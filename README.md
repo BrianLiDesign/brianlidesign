@@ -28,7 +28,7 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
   <div class="badge-github-statistics">
     <p align="left">
       <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign&theme=default&hide_border=false" alt="brianlidesign's Streak">
-      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlidesign&theme=default&show_icons=true&hide_border=false&layout=compact" alt="brianlidesign's Stats">
+      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlidesign&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="brianlidesign's Stats">
     </p>
   </div>
     <br>
