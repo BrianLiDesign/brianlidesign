@@ -5,9 +5,9 @@
 I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project starts its journey with ideating and thinking of a problem and a potential solution, or a useful purpose. After planning, the project undergoes its design and is polished with repeated improvements. I am eager to learn new concepts and work with my hands every day.
 
 <p align="left">
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+  <a href="https://www.youtube.com/@brianlidesign">
     <img alt="brianlidesign's youtube subscribers" title="Subscribe to brianlidesign's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.youtube.com/c/fknight">
+  <a href="https://www.youtube.com/@brianlidesign">
     <img alt="brianlidesign's youtube views" title="brianlidesign's YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/BrianLiDesign?tab=followers">
     <img alt="brianlidesign's github followers" title="Follow brianlidesign on Github" src="https://custom-icon-badges.demolab.com/github/followers/BrianLiDesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
