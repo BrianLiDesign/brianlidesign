@@ -2,7 +2,7 @@
 
 **`Technology Architect (Designer/Engineer/Learner)`**
 
-I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project starts its journey with ideating and thinking of a problem and a potential solution, or a useful purpose. After planning, the project undergoes its design and is polished with repeated improvements. I am eager to learn new concepts and work with my hands every day.
+I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project begins its journey by ideating a problem and a potential solution, or identifying a useful purpose. After planning, the project undergoes design and is refined through repeated improvements. I am eager to learn new concepts and work with my hands every day.
 
 <p align="left">
   <a href="https://www.youtube.com/@brianlidesign">
