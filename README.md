@@ -18,7 +18,7 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 ### 🧰 Languages and Tools
 
 [![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=black)](#)
-![HTML Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&labelColor=black)
+[![HTML Badge](https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&labelColor=black)](#)
 [![CSS Badge](https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=css&labelColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&labelColor=black)](#)
 
