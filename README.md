@@ -2,7 +2,7 @@
 
 **`Technology Architect (Designer/Engineer/Learner)`**
 
-I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project begins its journey by ideating a problem and a potential solution, or identifying a useful purpose. After planning, the project undergoes design and is refined through repeated improvements. I am eager to learn new concepts and work with my hands every day.
+I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project begins its journey by ideating a problem and a potential solution, or identifying a useful purpose. After planning, the project undergoes design refinement through repeated improvements. I am eager to learn new concepts and engage in hands-on work every day.
 
 <p align="left">
   <a href="https://www.youtube.com/@brianlidesign">
@@ -15,12 +15,21 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
     <img alt="brianlidesign's github total stars" title="brianlidesign's total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianLiDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-### 🧰 Languages and Tools
+### 💻 Languages
 
-[![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=css&labelColor=black)](#)
-[![Javascript Badge](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&labelColor=black)](#)
+![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=black)
+![Assembly Badge](https://img.shields.io/badge/assembly-assembly?style=for-the-badge&color=darkblue)
+![HTML Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&labelColor=black)
+![CSS Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&labelColor=black)
+![Javascript Badge](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&labelColor=black)
+
+### 🛠️ Tools
+
+![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&labelColor=black)
+![Rhinoceros Badge](https://img.shields.io/badge/rhinoceros-801010?style=for-the-badge&logo=rhinoceros&labelColor=black)
+![Virtualbox Badge](https://img.shields.io/badge/virtualbox-2F61B4?style=for-the-badge&logo=git&labelColor=black)
+![Figma Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
+![Wondershare Filmora Badge](https://img.shields.io/badge/filmora-07273D?style=for-the-badge&logo=wondershare-filmora&labelColor=black)
 
 ### 📊 Statistics
 
