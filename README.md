@@ -31,7 +31,7 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&labelColor=black)
 ![Figma Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
-![Virtualbox Badge](https://img.shields.io/badge/virtualbox-2F61B4?style=for-the-badge&logo=git&labelColor=black)
+![Virtualbox Badge](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=F61B4&labelColor=black)
 
 ![Rhinoceros Badge](https://img.shields.io/badge/rhinoceros-801010?style=for-the-badge&logo=rhinoceros&labelColor=black)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white&labelColor=black)
