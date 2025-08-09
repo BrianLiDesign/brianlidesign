@@ -6,13 +6,13 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 
 <p align="left">
   <a href="https://www.youtube.com/@brianlidesign">
-    <img alt="brianlidesign's youtube subscribers" title="Subscribe to brianlidesign's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="brianlidesign's youtube subscribers" title="Subscribe to BrianLiDesign's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/@brianlidesign">
-    <img alt="brianlidesign's youtube views" title="brianlidesign's YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+    <img alt="brianlidesign's youtube views" title="BrianLiDesign's YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/BrianLiDesign?tab=followers">
-    <img alt="brianlidesign's github followers" title="Follow brianlidesign on Github" src="https://custom-icon-badges.demolab.com/github/followers/BrianLiDesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="brianlidesign's github followers" title="Follow BrianLiDesign on Github" src="https://custom-icon-badges.demolab.com/github/followers/BrianLiDesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/BrianLiDesign?tab=repositories&sort=stargazers">
-    <img alt="brianlidesign's github total stars" title="brianlidesign's total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianLiDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="brianlidesign's github total stars" title="BrianLiDesign's total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianLiDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ### 💻 Languages
@@ -40,9 +40,10 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 ### 📊 Statistics
 
   <div class="badge-github-statistics">
-    <p align="center">
-      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlidesign&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="brianlidesign's Stats">
-      <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign&theme=default&hide_border=false" alt="brianlidesign's Streak">
+    <p align="left">
+      <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlidesign&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="BrianLiDesign's Stats">
+      <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign&theme=default&hide_border=false" alt="BrianLiDesign's Streak">
+      <img height="120" src="https://github-readme-activity-graph.vercel.app/graph?username=brianlidesign&theme=github-compact&days=7" alt="BrianLiDesign's Activity Graph">
     </p>
   </div>
     <br>
