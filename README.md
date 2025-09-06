@@ -30,7 +30,7 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 
 ![Visual Studio Code][visual-studio-code-badge]
 ![Vivado][vivado-badge]
-![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&labelColor=black)
+![Git Badge][git-badge]
 ![Figma Badge][figma-badge]
 ![Virtualbox Badge][virtualbox-badge]
 
