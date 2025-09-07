@@ -40,13 +40,12 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 
 ### 📊 Statistics
 
-  <div class="badge-github-statistics">
-    <p align="left">
-      <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlidesign&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="BrianLiDesign's Stats">
-      <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign&theme=default&hide_border=false" alt="BrianLiDesign's Streak">
-    </p>
-  </div>
-    <br>
+<div class="badge-github-statistics">
+  <p align="left">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlidesign&theme=default&show_icons=true&hide_border=false&layout=compact&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="BrianLiDesign's Stats">
+    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign&theme=default&hide_border=false" alt="BrianLiDesign's Streak">
+  </p>
+</div>
 
 <!-- MARKDOWN LINKS -->
 [assembly-badge]: https://img.shields.io/badge/assembly-assembly?style=for-the-badge&color=darkblue
