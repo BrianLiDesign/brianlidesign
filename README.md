@@ -63,3 +63,4 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 [visual-studio-code-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [vivado-badge]: https://img.shields.io/badge/vivado-vivado?style=for-the-badge&color=white
 [wondershare-filmora-badge]: https://img.shields.io/badge/filmora-07273D?style=for-the-badge&logo=wondershare-filmora&labelColor=black
+[adobe-illustrator-badge]:
