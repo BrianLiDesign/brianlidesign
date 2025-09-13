@@ -48,7 +48,6 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 </div>
 
 <!-- MARKDOWN LINKS -->
-[adobe-illustrator-badge]:
 [assembly-badge]: https://img.shields.io/badge/assembly-assembly?style=for-the-badge&color=darkblue
 [css-badge]: https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&labelColor=black
 [figma-badge]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black
