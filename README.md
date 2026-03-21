@@ -1,6 +1,6 @@
-# 🌠 Brian Li
+# <👋Hello, World! I'm Brian Li. />
 
-**`Technology Architect (Designer/Engineer/Learner)`**
+🌠 `Technology Engineer, Explorer, Helper`
 
 I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project begins its journey by ideating a problem and a potential solution, or identifying a useful purpose. After planning, the project undergoes design refinement through repeated iterations of improvement. I am eager to learn new concepts and engage in hands-on work daily.
 
@@ -14,6 +14,20 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
   <a href="https://github.com/BrianLiDesign?tab=repositories&sort=stargazers">
     <img alt="brianlidesign's github total stars" title="BrianLiDesign's total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianLiDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+
+# <🙋‍♂️I am />
+
+- 🔭 I am currently working on **unmanned aerial systems**.
+
+- 🌱 I am currently learning **C++**
+
+<!--- 👯 I am looking to collaborate on [e](e)-->
+
+<!--- 🤝 I am looking for help with [e](e)-->
+
+<!---📄 Know about my experiences-->
+
+- ⚡ Fun fact: I run my Raspberry Pi to host a Minecraft server for my friends to stay in touch and have fun together even from afar. 
 
 ### 💻 Languages
 
@@ -43,9 +57,12 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 
 <div class="badge-github-statistics">
   <p align="left">
-    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign&theme=default&hide_border=false" alt="BrianLiDesign's Streak">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianlidesign&show_icons=true&locale=en&layout=compact" alt="BrianLiDesign's Stats">
+    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign" alt="BrianLiDesign's Streak Stats">
   </p>
 </div>
+<p>
+
 
 <!-- MARKDOWN LINKS -->
 [adobe-illustrator-badge]: https://img.shields.io/badge/illustrator-illustrator?style=for-the-badge&color=yellow
