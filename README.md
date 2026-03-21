@@ -2,7 +2,7 @@
 
 🌠 `Technology Engineer, Explorer, Helper`
 
-I am a computer engineer born and raised in Hawaii, creating and exploring various fields of technology one line at a time. All my projects originate with a mix of interest, passion, and practical application. Each project begins its journey by ideating a problem and a potential solution, or identifying a useful purpose. After planning, the project undergoes design refinement through repeated iterations of improvement. I am eager to learn new concepts and engage in hands-on work daily.
+Computer Engineering student at Cal Poly SLO focused on embedded systems, systems engineering, and software-hardware integration. I enjoy building practical technical projects, debugging real systems, and learning by shipping.
 
 <p align="left">
   <a href="https://www.youtube.com/@brianlidesign">
@@ -15,7 +15,16 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
     <img alt="brianlidesign's github total stars" title="BrianLiDesign's total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianLiDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-# <🙋‍♂️I am />
+## <🚀Featured Work />
+> A few things I’m proud of building and learning from.
+
+### Raspberry Pi Minecraft Server
+Self-hosted a Minecraft server on Raspberry Pi so friends could stay connected remotely.  
+**Focus:** practical systems setup, networking, reliability, self-hosting  
+**Tech:** Raspberry Pi, Linux, networking  
+[Project](https://github.com/BrianLiDesign/minecraft-fabric-server-raspi-pi)
+
+## <🙋‍♂️Who am I? />
 
 - 🔭 I am currently working on **unmanned aerial systems**.
 
@@ -27,33 +36,43 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 
 <!---📄 Know about my experiences-->
 
-- ⚡ Fun fact: I run my Raspberry Pi to host a Minecraft server for my friends to stay in touch and have fun together even from afar. 
+- ⚡ Fun Fact: I use my **Raspberry Pi** to host a Minecraft server so my friends can stay connected and have fun together even from afar.
 
-### 💻 Languages
+- 🌊 Born and raised in **Hawaii**, I bring a grounded, community-oriented mindset to how I learn, work, and build.
 
+## <💻 My engineering tech stack />
+
+### Languages
 ![Python Badge][python-badge]
 ![Java][java-badge]
 ![HTML Badge][html-badge]
 ![CSS Badge][css-badge]
 ![Javascript Badge][javascript-badge]
-
 ![Assembly Badge][assembly-badge]
 ![SystemVerilog Badge][systemverilog-badge]
 
-### 🛠️ Tools
+### Tools
 
 ![Visual Studio Code][visual-studio-code-badge]
 ![Vivado][vivado-badge]
 ![Git Badge][git-badge]
 ![Figma Badge][figma-badge]
+![Raspberry-Pi][raspberry-pi-badge]
 ![Virtualbox Badge][virtualbox-badge]
 
+### Other Creative and Technical Tools
 ![Rhinoceros Badge][rhinoceros-badge]
 ![Sketch Up][sketchup-badge]
 ![Wondershare Filmora Badge][wondershare-filmora-badge]
 ![Adobe Illustrator Badge][adobe-illustrator-badge]
 
-### 📊 Statistics
+## <📫 Connect with me! />
+
+- GitHub: [github.com/BrianLiDesign](https://github.com/BrianLiDesign)
+- LinkedIn: [linkedin.com/in/brianlidesign](https://www.linkedin.com/in/brianlidesign)
+- Email: [brian.li.social@gmail.com](mailto:brian.li.social@gmail.com)
+
+## <📊 A GitHub Snapshot />
 
 <div class="badge-github-statistics">
   <p align="left">
@@ -62,7 +81,6 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
   </p>
 </div>
 <p>
-
 
 <!-- MARKDOWN LINKS -->
 [adobe-illustrator-badge]: https://img.shields.io/badge/illustrator-illustrator?style=for-the-badge&color=yellow
@@ -74,6 +92,7 @@ I am a computer engineer born and raised in Hawaii, creating and exploring vario
 [java-badge]: https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black
 [javascript-badge]: https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&labelColor=black
 [python-badge]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=black
+[raspberry-pi-badge]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
 [rhinoceros-badge]: https://img.shields.io/badge/rhinoceros-801010?style=for-the-badge&logo=rhinoceros&labelColor=black
 [sketchup-badge]: https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white&labelColor=black
 [systemverilog-badge]: https://img.shields.io/badge/systemverilog-systemverilog?style=for-the-badge&color=lightblue
