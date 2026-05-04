@@ -76,7 +76,6 @@ Self-hosted a Minecraft server on Raspberry Pi so friends could stay connected r
 
 <div class="badge-github-statistics">
   <p align="left">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianlidesign&show_icons=true&locale=en&layout=compact" alt="BrianLiDesign's Stats">
     <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=brianlidesign" alt="BrianLiDesign's Streak Stats">
   </p>
 </div>
