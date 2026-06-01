@@ -2,7 +2,9 @@
 
 🌠 `Technology Engineer, Explorer, Helper`
 
-Computer Engineering student at Cal Poly SLO focused on embedded systems, systems engineering, and software-hardware integration. I enjoy building practical technical projects, debugging real systems, and learning by shipping.
+I build computers to beep boop.
+I love my home, Hawaii.
+I live to give back (hoʻihoʻi i kaiaulu).
 
 <p align="left">
   <a href="https://www.youtube.com/@brianlidesign">
