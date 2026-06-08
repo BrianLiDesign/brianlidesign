@@ -11,8 +11,6 @@ I live to give back (hoʻihoʻi i kaiaulu).
     <img alt="brianlidesign's youtube subscribers" title="Subscribe to BrianLiDesign's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/@brianlidesign">
     <img alt="brianlidesign's youtube views" title="BrianLiDesign's YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxRYK_yDD8ifKN08XwfdXuQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-  <a href="https://github.com/BrianLiDesign?tab=followers">
-    <img alt="brianlidesign's github followers" title="Follow BrianLiDesign on Github" src="https://custom-icon-badges.demolab.com/github/followers/BrianLiDesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/BrianLiDesign?tab=repositories&sort=stargazers">
     <img alt="brianlidesign's github total stars" title="BrianLiDesign's total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrianLiDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
