@@ -2,9 +2,11 @@
 
 🌠 `Technology Engineer, Explorer, Helper`
 
-I build computers to beep boop.
-I love my home, Hawaii.
-I live to give back (hoʻihoʻi i kaiaulu).
+🔨I build computers to beep boop.
+
+❤️I love my home, Hawaii.
+
+🤝I live to give back (hoʻihoʻi i kaiaulu).
 
 <p align="left">
   <a href="https://www.youtube.com/@brianlidesign">
