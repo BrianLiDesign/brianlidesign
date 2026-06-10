@@ -1,6 +1,6 @@
 # <👋Hello, World! I'm Brian Li. />
 
-🌠 `Technology Engineer, Explorer, Helper`
+🌠 `Systems Engineering Intern @ Booz Allen | Computer Engineering @ Cal Poly SLO`
 
 🔨I build computers to beep boop.
 
